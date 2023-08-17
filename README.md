@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
@@ -68,14 +66,11 @@
 
 <br/>  
 
-
-
   
+
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jory-Roberts&&style=flat-square" align="center" />
-</div>  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jory-Roberts&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
   
 
 <br/>  
@@ -85,5 +80,7 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jory-Roberts&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+
