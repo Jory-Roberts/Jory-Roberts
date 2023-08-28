@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jory-roberts&label=Profile%20views&color=0e75b6&style=flat" alt="jory-roberts" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jory-roberts" alt="jory-roberts" /></a> </p>
-
-- 🔭 I’m currently working on [phase-3-cli](https://github.com/Jory-Roberts/phase-3-cli)
-
-- 🌱 I’m currently learning **Python, SQL**
 
 - ⚡ Fun fact **I worked as an audio engineer prior to my leap into software engineering**
 
