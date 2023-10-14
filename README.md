@@ -19,8 +19,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jory-roberts&" alt="jory-roberts" /></p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jory-Roberts&theme=dracula&mode=weekly)](https://git.io/streak-stats)
-
 
 
 
