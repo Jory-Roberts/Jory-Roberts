@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jory</h1>
 <h3 align="center">A full-stack developer in Nashville, TN</h3>
 
-- 🌱 I’m currently learning **Python, SQL, Flask**
+- 🌱 I’m currently learning **TypeScript**
 
 - ⚡ Fun fact **I worked as an audio engineer prior to my leap into software engineering**
 
