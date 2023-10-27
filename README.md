@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jory</h1>
 <h3 align="center">A Full Stack developer in Nashville, TN</h3>
 
-- 🌱 I’m currently learning **More React and TypeScript**
+- 🌱 I’m currently learning **Angular and TypeScript**
 
 - 💬 Ask me about **React, TypeScript**
 
