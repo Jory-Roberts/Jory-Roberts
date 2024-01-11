@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jory</h1>
-<h3 align="center">A Full Stack developer in Nashville, TN</h3>
+<h3 align="center">A Full Stack developer in Detroit, Michigan</h3>
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
